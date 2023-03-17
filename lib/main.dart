@@ -75,6 +75,7 @@ class MyApp extends StatelessWidget {
         SystemChrome.setPreferredOrientations(
             [DeviceOrientation.landscapeLeft]);
         return MaterialApp(
+
           localizationsDelegates: context.localizationDelegates,
           supportedLocales: context.supportedLocales,
           theme: ThemeData(
@@ -82,6 +83,9 @@ class MyApp extends StatelessWidget {
 
           ),
           home: const MyPage(),
+          routes: {
+            '/' : (context) => const MyPage()
+          },
         );
       });
 }
