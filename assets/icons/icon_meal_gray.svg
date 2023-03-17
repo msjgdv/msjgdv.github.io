@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.604" height="47.584" viewBox="0 0 43.604 47.584">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_6469" data-name="사각형 6469" width="43.604" height="47.584" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="식사_아이콘" data-name="식사 아이콘" transform="translate(0 0)">
+    <g id="그룹_404" data-name="그룹 404" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="패스_39" data-name="패스 39" d="M29.376,44.561h0a2.557,2.557,0,0,1-2.549-2.549V15.99a2.549,2.549,0,1,1,5.1,0V42.012a2.557,2.557,0,0,1-2.549,2.549" transform="translate(6.034 3.023)" fill="#9e9e9e"/>
+      <path id="패스_40" data-name="패스 40" d="M7.056,44.409h0a2.487,2.487,0,0,1-2.48-2.48V16.6a2.48,2.48,0,1,1,4.96,0V41.928a2.487,2.487,0,0,1-2.479,2.48" transform="translate(1.029 3.175)" fill="#9e9e9e"/>
+      <path id="패스_41" data-name="패스 41" d="M37.158,2.173v8.264a6.97,6.97,0,1,1-13.94,0V2.173" transform="translate(5.222 0.488)" fill="none" stroke="#9e9e9e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_42" data-name="패스 42" d="M14.72,10.319c0,5.147-3.071,9.319-6.861,9.319S1,15.466,1,10.319,4.071,1,7.86,1s6.861,4.172,6.861,9.319" transform="translate(0.225 0.225)" fill="#fff"/>
+      <path id="패스_43" data-name="패스 43" d="M14.72,10.319c0,5.147-3.071,9.319-6.861,9.319S1,15.466,1,10.319,4.071,1,7.86,1,14.72,5.172,14.72,10.319Z" transform="translate(0.225 0.225)" fill="none" stroke="#9e9e9e" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_67" data-name="선 67" y2="15.234" transform="translate(35.41 2.661)" fill="none" stroke="#9e9e9e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30.294" height="44.199" viewBox="0 0 30.294 44.199">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_6475" data-name="사각형 6475" width="30.294" height="44.199" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="보고서_아이콘" data-name="보고서 아이콘" transform="translate(0 0)">
+    <g id="그룹_414" data-name="그룹 414" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <rect id="사각형_6474" data-name="사각형 6474" width="28.1" height="39.427" rx="1" transform="translate(1.097 3.674)" fill="#fff"/>
+      <path id="패스_64" data-name="패스 64" d="M28.1,41.776H2.194V4.543H28.1Zm0-39.427H2.194A2.194,2.194,0,0,0,0,4.543V41.776A2.194,2.194,0,0,0,2.194,43.97H28.1a2.194,2.194,0,0,0,2.194-2.194V4.543A2.194,2.194,0,0,0,28.1,2.349" transform="translate(0 0.228)" fill="#a666fc"/>
+      <path id="패스_65" data-name="패스 65" d="M22.472,7.222H6.7a.938.938,0,0,1-.938-.938V.938A.938.938,0,0,1,6.7,0H22.472a.938.938,0,0,1,.938.938V6.284a.938.938,0,0,1-.938.938" transform="translate(0.56 0)" fill="#a666fc"/>
+      <line id="선_68" data-name="선 68" x2="16.282" transform="translate(7.006 12.625)" fill="none" stroke="#a666fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_69" data-name="선 69" x2="16.282" transform="translate(7.006 18.03)" fill="none" stroke="#a666fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_70" data-name="선 70" x2="16.282" transform="translate(7.006 23.434)" fill="none" stroke="#a666fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_66" data-name="패스 66" d="M19.968,31.025a5.661,5.661,0,1,1-5.66-5.661,5.661,5.661,0,0,1,5.66,5.661" transform="translate(0.84 2.464)" fill="#a666fc"/>
+      <circle id="타원_46" data-name="타원 46" cx="5.661" cy="5.661" r="5.661" transform="translate(9.486 27.828)" fill="none" stroke="#a666fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="패스_67" data-name="패스 67" d="M13.805,23.755v7.939l7.821-.684" transform="translate(1.342 2.308)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

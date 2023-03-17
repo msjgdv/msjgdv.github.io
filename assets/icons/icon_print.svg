@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.406" height="36.693" viewBox="0 0 36.406 36.693">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_6460" data-name="사각형 6460" width="36.406" height="36.693" transform="translate(-2 -2)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="프린트_아이콘" data-name="프린트 아이콘" transform="translate(2 2)" clip-path="url(#clip-path)">
+    <path id="패스_10" data-name="패스 10" d="M31.4,28.986H1.586A.588.588,0,0,1,1,28.4V12.26a.587.587,0,0,1,.586-.586H31.4a.587.587,0,0,1,.586.586V28.4a.588.588,0,0,1-.586.586" transform="translate(-0.289 -3.377)" fill="none"/>
+    <rect id="사각형_6458" data-name="사각형 6458" width="30.985" height="17.312" rx="0.824" transform="translate(0.711 8.297)" fill="none" stroke="#a666fb" stroke-linejoin="round" stroke-width="2"/>
+    <path id="패스_11" data-name="패스 11" d="M26.3,39.107H14.782a.464.464,0,0,1-.463-.463V25.1a.465.465,0,0,1,.463-.463H26.3a.465.465,0,0,1,.463.463V38.644a.464.464,0,0,1-.463.463" transform="translate(-4.142 -7.125)" fill="none"/>
+    <path id="사각형_6459" data-name="사각형 6459" d="M.652,0h11.14a.652.652,0,0,1,.652.652V13.824a.651.651,0,0,1-.651.651H.652A.652.652,0,0,1,0,13.823V.652A.652.652,0,0,1,.652,0Z" transform="translate(10.177 17.507)" fill="#fff" stroke="#a666fb" stroke-linejoin="round" stroke-width="2"/>
+    <path id="패스_12" data-name="패스 12" d="M27.866,8.035H11.627V1.488A.487.487,0,0,1,12.115,1H27.378a.487.487,0,0,1,.488.488Z" transform="translate(-3.363 -0.289)" fill="none"/>
+    <path id="패스_13" data-name="패스 13" d="M27.866,8.035H11.627V1.488A.487.487,0,0,1,12.115,1H27.378a.487.487,0,0,1,.488.488Z" transform="translate(-3.363 -0.289)" fill="none" stroke="#a666fb" stroke-linejoin="round" stroke-width="2"/>
+    <line id="선_60" data-name="선 60" x2="18.199" transform="translate(7.377 17.508)" fill="none" stroke="#a666fb" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

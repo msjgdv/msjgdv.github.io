@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <filter id="사각형_8597" x="0" y="0" width="68" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="추가_아이콘" data-name="추가 아이콘" transform="translate(-926 -655)">
+    <g transform="matrix(1, 0, 0, 1, 926, 655)" filter="url(#사각형_8597)">
+      <rect id="사각형_8597-2" data-name="사각형 8597" width="50" height="50" rx="10" transform="translate(9 6)" fill="#c6a2fc"/>
+    </g>
+    <text id="_" data-name="+" transform="translate(952 696)" fill="#7649b7" font-size="30" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo"><tspan x="0" y="0">+</tspan></text>
+  </g>
+</svg>

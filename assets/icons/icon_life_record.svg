@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45.976" height="47.876" viewBox="0 0 45.976 47.876">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_8666" data-name="사각형 8666" width="45.976" height="47.876" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_1153" data-name="그룹 1153" transform="translate(0 0)">
+    <g id="그룹_1152" data-name="그룹 1152" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="패스_1991" data-name="패스 1991" d="M33.511,20.69,19.773,7.769l6.045-6.427a1.082,1.082,0,0,1,1.531-.047L39.509,12.731a1.085,1.085,0,0,1,.047,1.532Z" transform="translate(4.879 0.247)" fill="#fff"/>
+      <path id="패스_1992" data-name="패스 1992" d="M33.511,20.69,19.773,7.769l6.045-6.427a1.082,1.082,0,0,1,1.531-.047L39.509,12.731a1.085,1.085,0,0,1,.047,1.532Z" transform="translate(4.879 0.247)" fill="none" stroke="#fdb43b" stroke-width="2"/>
+      <path id="패스_1993" data-name="패스 1993" d="M3.775,39.005l15.495-3.668a.55.55,0,0,0,.248-.936L6.383,22.046a.551.551,0,0,0-.921.307L2.748,38.04a.844.844,0,0,0,1.026.965" transform="translate(0.675 5.403)" fill="#fff"/>
+      <path id="패스_1994" data-name="패스 1994" d="M3.775,39.005l15.495-3.668a.55.55,0,0,0,.248-.936L6.383,22.046a.551.551,0,0,0-.921.307L2.748,38.04A.844.844,0,0,0,3.775,39.005Z" transform="translate(0.675 5.403)" fill="none" stroke="#fdb43b" stroke-width="2"/>
+      <path id="패스_1995" data-name="패스 1995" d="M18.241,39.117,5.06,26.72a.382.382,0,0,1-.017-.541L24.379,5.621,38.117,18.543,18.78,39.1a.382.382,0,0,1-.54.016" transform="translate(1.219 1.387)" fill="#fdb43b"/>
+      <path id="패스_1996" data-name="패스 1996" d="M18.241,39.117,5.06,26.72a.382.382,0,0,1-.017-.541L24.379,5.621,38.117,18.543,18.78,39.1A.382.382,0,0,1,18.241,39.117Z" transform="translate(1.219 1.387)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="선_523" data-name="선 523" x1="19.598" y2="20.836" transform="translate(10.416 11.162)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="선_524" data-name="선 524" x1="19.598" y2="20.836" transform="translate(15.384 15.835)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="선_525" data-name="선 525" x1="2.668" y2="2.838" transform="translate(0.909 44.185)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

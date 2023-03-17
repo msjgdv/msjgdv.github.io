@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49.603" height="50.276" viewBox="0 0 49.603 50.276">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="패스_69" data-name="패스 69" d="M0,0H49.6V50.276H0Z" transform="translate(-2.423 -1.74)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="감정_아이콘" data-name="감정 아이콘" transform="translate(2.423 1.74)">
+    <g id="마스크_그룹_1" data-name="마스크 그룹 1" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="패스_30" data-name="패스 30" d="M27.1,14.3A12.8,12.8,0,1,1,14.3,1.5,12.8,12.8,0,0,1,27.1,14.3" transform="translate(0.155 0.155)" fill="#9e9e9e"/>
+      <path id="패스_68" data-name="패스 68" d="M12.8,0a13.158,13.158,0,0,1,4.9.972A12.806,12.806,0,1,1,12.8,0Z" transform="translate(1.654 1.655)" fill="none" stroke="#9e9e9e" stroke-width="3"/>
+      <path id="패스_31" data-name="패스 31" d="M8.971,10.11A1.765,1.765,0,1,1,7.206,8.345,1.765,1.765,0,0,1,8.971,10.11" transform="translate(0.562 0.862)" fill="#fff"/>
+      <path id="패스_32" data-name="패스 32" d="M18.746,10.11a1.765,1.765,0,1,1-1.765-1.765,1.765,1.765,0,0,1,1.765,1.765" transform="translate(1.571 0.862)" fill="#fff"/>
+      <path id="패스_33" data-name="패스 33" d="M7.916,17.386a9.209,9.209,0,0,1,9.82,0" transform="translate(0.817 1.65)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="패스_34" data-name="패스 34" d="M41.862,27.81A14.176,14.176,0,1,1,27.686,13.634,14.176,14.176,0,0,1,41.862,27.81" transform="translate(1.395 1.408)" fill="#fff"/>
+      <path id="패스_35" data-name="패스 35" d="M41.862,27.81a14.176,14.176,0,1,1-4.826-10.655A13.992,13.992,0,0,1,41.862,27.81Z" transform="translate(1.395 1.408)" fill="none" stroke="#9e9e9e" stroke-width="2"/>
+      <path id="패스_36" data-name="패스 36" d="M23.4,24.283a1.765,1.765,0,1,1-1.765-1.765A1.765,1.765,0,0,1,23.4,24.283" transform="translate(2.052 2.326)" fill="#9e9e9e"/>
+      <path id="패스_37" data-name="패스 37" d="M33.175,24.283a1.765,1.765,0,1,1-1.765-1.765,1.765,1.765,0,0,1,1.765,1.765" transform="translate(3.062 2.326)" fill="#9e9e9e"/>
+      <path id="패스_38" data-name="패스 38" d="M31.728,30.7a9.209,9.209,0,0,1-9.82,0" transform="translate(2.262 3.171)" fill="none" stroke="#9e9e9e" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

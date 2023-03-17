@@ -1,0 +1,22 @@
+{
+  "hello": "hello",
+  "name": "name",
+  "clear": "clear",
+  "english": "English",
+  "korean": "한국어",
+  "red": "red",
+  "blue": "blue",
+  "green": "green",
+
+  "sign": "Sign",
+  "annualPlan":"AnnualPlan",
+  "record": "Record",
+  "dayRecord": "DayRecord",
+  "weekRecord": "WeekRecord",
+  "notices": "Notices",
+  "playFlow": "PlayFlow",
+  "portfolio": "Portfolio",
+  "nuri": "Nuri",
+  "lifeRecord": "LifeRecord"
+
+}

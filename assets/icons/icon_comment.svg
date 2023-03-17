@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35.46" height="33.24" viewBox="0 0 35.46 33.24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_6461" data-name="사각형 6461" width="35.46" height="33.24" transform="translate(-2 -2)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="코멘트_아이콘" data-name="코멘트 아이콘" transform="translate(2 2)" clip-path="url(#clip-path)">
+    <path id="패스_14" data-name="패스 14" d="M29.8,1H2.281A1.286,1.286,0,0,0,1,2.282V20.891a1.285,1.285,0,0,0,1.281,1.281H5.425L4.134,28.86l11.484-6.687H29.8a1.285,1.285,0,0,0,1.282-1.281V2.282A1.286,1.286,0,0,0,29.8,1" transform="translate(-0.31 -0.31)" fill="none"/>
+    <path id="패스_15" data-name="패스 15" d="M29.8,1H2.281A1.286,1.286,0,0,0,1,2.282V20.891a1.285,1.285,0,0,0,1.281,1.281H5.425L4.134,28.86l11.484-6.687H29.8a1.285,1.285,0,0,0,1.282-1.281V2.282A1.286,1.286,0,0,0,29.8,1Z" transform="translate(-0.31 -0.31)" fill="none" stroke="#a666fb" stroke-linejoin="round" stroke-width="2"/>
+    <line id="선_61" data-name="선 61" x2="17.667" transform="translate(6.896 7.621)" fill="none" stroke="#a666fb" stroke-linecap="round" stroke-width="2"/>
+    <line id="선_62" data-name="선 62" x2="17.667" transform="translate(6.896 14.813)" fill="none" stroke="#a666fb" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

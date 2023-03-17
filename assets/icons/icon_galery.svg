@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <filter id="사각형_8514" x="0" y="0" width="52" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#505050" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="사각형_8514-2" x="0" y="0" width="52" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="사각형_8390" data-name="사각형 8390" width="22.232" height="21.648" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="이미지추가_아이콘" data-name="이미지추가 아이콘" transform="translate(-703 -350)">
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 703, 350)" filter="url(#사각형_8514)">
+        <rect id="사각형_8514-3" data-name="사각형 8514" width="34" height="34" rx="5" transform="translate(8 8)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 703, 350)" filter="url(#사각형_8514-2)">
+        <rect id="사각형_8514-4" data-name="사각형 8514" width="34" height="34" rx="5" transform="translate(8 8)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="그룹_1025" data-name="그룹 1025" transform="translate(716.884 364.177)">
+      <rect id="사각형_8388" data-name="사각형 8388" width="21.017" height="20.433" transform="translate(0.607 0.607)" fill="#fff"/>
+      <g id="그룹_1024" data-name="그룹 1024" transform="translate(0 0)">
+        <g id="그룹_1023" data-name="그룹 1023" clip-path="url(#clip-path)">
+          <rect id="사각형_8389" data-name="사각형 8389" width="21.017" height="20.433" transform="translate(0.607 0.607)" fill="none" stroke="#a666fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="패스_1673" data-name="패스 1673" d="M1,19.1s4.807-7.92,6.5-8.025c1.722-.108,4.856,6.044,6.209,5.889,1.224-.141,2.721-3.2,4.67-2.883,2.273.367,3.721,3.386,3.639,3.48v7.828H1Z" transform="translate(-0.393 -4.346)" fill="#a666fb"/>
+          <path id="패스_1674" data-name="패스 1674" d="M26.866,6.662a2.123,2.123,0,1,1-2.123-2.123,2.123,2.123,0,0,1,2.123,2.123" transform="translate(-8.881 -1.782)" fill="#a666fb"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41.988" height="39.248" viewBox="0 0 41.988 39.248">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_6456" data-name="사각형 6456" width="41.988" height="39.248" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="찾기_아이콘" data-name="찾기 아이콘" clip-path="url(#clip-path)">
+    <path id="패스_4" data-name="패스 4" d="M22.072,11.536A10.536,10.536,0,1,1,11.536,1,10.536,10.536,0,0,1,22.072,11.536" transform="translate(7.58 5.81)" fill="none"/>
+    <path id="패스_5" data-name="패스 5" d="M22.072,11.536A10.536,10.536,0,1,1,11.536,1,10.536,10.536,0,0,1,22.072,11.536Z" transform="translate(7.58 5.81)" fill="none" stroke="#a666fb" stroke-linejoin="round" stroke-width="2"/>
+    <line id="선_57" data-name="선 57" x1="7.746" y1="7.356" transform="translate(26.547 25.082)" fill="none" stroke="#a666fb" stroke-linecap="round" stroke-width="2"/>
+    <path id="패스_6" data-name="패스 6" d="M22.19,7.788s4.377,1.295,4.261,7.9" transform="translate(-0.541 3.209)" fill="none" stroke="#a666fb" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

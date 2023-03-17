@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <filter id="사각형_8518" x="0" y="0" width="52" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#505050" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="사각형_8518-2" x="0" y="0" width="52" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="추가아이콘_내용안_" data-name="추가아이콘(내용안)" transform="translate(-1149 -371)">
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 1149, 371)" filter="url(#사각형_8518)">
+        <rect id="사각형_8518-3" data-name="사각형 8518" width="34" height="34" rx="5" transform="translate(8 8)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1149, 371)" filter="url(#사각형_8518-2)">
+        <rect id="사각형_8518-4" data-name="사각형 8518" width="34" height="34" rx="5" transform="translate(8 8)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="합치기_1" data-name="합치기 1" d="M2466-4793.941h0v0h0v0Z" transform="translate(-1292 5189)" fill="none" stroke="#a666fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

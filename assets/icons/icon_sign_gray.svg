@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28.439" height="44.195" viewBox="0 0 28.439 44.195">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_8618" data-name="사각형 8618" width="28.439" height="44.195" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_1108" data-name="그룹 1108" transform="translate(0 0)">
+    <g id="그룹_1107" data-name="그룹 1107" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="패스_1920" data-name="패스 1920" d="M19.557,6.343C19.557,3.393,16.8,1,13.4,1S7.234,3.393,7.234,6.343A4.649,4.649,0,0,0,7.41,7.59l3,21.308h5.746l3.2-21.226a4.683,4.683,0,0,0,.2-1.33" transform="translate(0.825 0.114)" fill="#fff"/>
+      <path id="패스_1921" data-name="패스 1921" d="M19.557,6.343C19.557,3.393,16.8,1,13.4,1S7.234,3.393,7.234,6.343A4.649,4.649,0,0,0,7.41,7.59l3,21.308h5.746l3.2-21.226A4.683,4.683,0,0,0,19.557,6.343Z" transform="translate(0.825 0.114)" fill="none" stroke="#9f9f9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_1922" data-name="패스 1922" d="M23.806,40.258H4.043A1.455,1.455,0,0,1,2.588,38.8V35.994a1.455,1.455,0,0,1,1.455-1.455H23.806a1.455,1.455,0,0,1,1.455,1.455V38.8a1.455,1.455,0,0,1-1.455,1.455" transform="translate(0.295 3.937)" fill="#9f9f9f"/>
+      <path id="패스_1923" data-name="패스 1923" d="M22.735,28.625H4.921a1.482,1.482,0,0,1-1.482-1.482v-.437a1.482,1.482,0,0,1,1.482-1.483H22.735a1.482,1.482,0,0,1,1.482,1.483v.437a1.482,1.482,0,0,1-1.482,1.482" transform="translate(0.392 2.875)" fill="#9f9f9f"/>
+      <path id="패스_1924" data-name="패스 1924" d="M26.378,36.853H1.833L1,31.366c0-1.682,1.639-3.046,3.662-3.046H23.549c2.022,0,3.662,1.364,3.662,3.046Z" transform="translate(0.114 3.228)" fill="#fff"/>
+      <path id="패스_1925" data-name="패스 1925" d="M26.378,36.853H1.833L1,31.366c0-1.682,1.639-3.046,3.662-3.046H23.549c2.022,0,3.662,1.364,3.662,3.046Z" transform="translate(0.114 3.228)" fill="none" stroke="#9f9f9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

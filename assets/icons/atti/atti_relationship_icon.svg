@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="33.192" viewBox="0 0 35 33.192">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_8988" data-name="사각형 8988" width="35" height="33.192" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_1329" data-name="그룹 1329" transform="translate(0 0)">
+    <rect id="사각형_8984" data-name="사각형 8984" width="18.071" height="10.871" transform="translate(8.446 0.999)" fill="#fff"/>
+    <g id="그룹_1328" data-name="그룹 1328" transform="translate(0 0)">
+      <g id="그룹_1327" data-name="그룹 1327" clip-path="url(#clip-path)">
+        <path id="패스_2229" data-name="패스 2229" d="M26.5,11.937H9.738a.927.927,0,0,1-.928-.928V.928A.927.927,0,0,1,9.738,0H26.5a.927.927,0,0,1,.928.928V11.01a.927.927,0,0,1-.928.928M10.665,10.082H25.571V1.855H10.665Z" transform="translate(-0.639 0)" fill="#9f9f9f"/>
+        <path id="패스_2230" data-name="패스 2230" d="M29.343,25.479a.927.927,0,0,1-.928-.928V19.531H7.338v5.021a.928.928,0,0,1-1.855,0V18.6a.928.928,0,0,1,.928-.928H29.343a.928.928,0,0,1,.928.928v5.948a.928.928,0,0,1-.928.928" transform="translate(-0.397 -1.281)" fill="#9f9f9f"/>
+        <rect id="사각형_8985" data-name="사각형 8985" width="1.855" height="6.313" transform="translate(16.553 11.01)" fill="#9f9f9f"/>
+        <rect id="사각형_8986" data-name="사각형 8986" width="10.173" height="8.342" transform="translate(0.928 23.923)" fill="#9f9f9f"/>
+        <path id="패스_2231" data-name="패스 2231" d="M11.1,34.989H.928A.927.927,0,0,1,0,34.062V25.721a.927.927,0,0,1,.928-.928H11.1a.927.927,0,0,1,.928.928v8.341a.927.927,0,0,1-.928.928M1.855,33.134h8.318V26.648H1.855Z" transform="translate(0 -1.797)" fill="#fff"/>
+        <rect id="사각형_8987" data-name="사각형 8987" width="10.255" height="8.342" transform="translate(23.818 23.923)" fill="#9f9f9f"/>
+        <path id="패스_2232" data-name="패스 2232" d="M35.861,34.989H25.607a.927.927,0,0,1-.928-.928V25.721a.927.927,0,0,1,.928-.928H35.861a.927.927,0,0,1,.928.928v8.341a.927.927,0,0,1-.928.928m-9.327-1.855h8.4V26.648h-8.4Z" transform="translate(-1.789 -1.797)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

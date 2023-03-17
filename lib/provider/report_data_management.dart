@@ -1,0 +1,44 @@
+import 'package:flutter/material.dart';
+
+class ReportDataManagement with ChangeNotifier{
+  int turn = 0;
+  String startDate = '';
+  String endDate = '';
+  int headCount = 0;
+  int popularCount =0;
+  int commonCount=0;
+  int bothsideCount=0;
+  int ostracizedCount=0;
+  int marginalizedCount=0;
+  List<int> cid =[];
+  List<int> positivePointingCount=[];
+  List<int> onePointingCount=[];
+  List<double> degreeCentrality=[];
+  List<double> betweennessCentrality=[];
+  List<double> closenessCentrality=[];
+  List<double> eigenvectorCentrality=[];
+  List<List<int>> positiveGraph=[];
+  List<List<List<int>>> connectionGraph=[];
+  List<int> nominationPopularId=[];
+  List<int> nominationCommonId=[];
+  List<int> nominationUnpopularId=[];
+  List<int> ratingPopularId=[];
+  List<int> ratingOstracizedId=[];
+  List<int> ratingMarginalizedId=[];
+  List<int> ratingBothsideId=[];
+  List<int> ratingCommonId=[];
+  List<List<int>> positiveNetworkEdge=[];
+  List<List<int>> negativeNetworkEdge=[];
+  List<int> positiveNetworkAloneEdge=[];
+  List<int> negativeNetworkAloneEdge=[];
+  double high70_degree = 0;
+  double low70_degree = 0;
+  double high70_between = 0;
+  double low70_between = 0;
+  double high70_close = 0;
+  double low70_close = 0;
+  double high70_eigen = 0;
+  double low70_eigen = 0;
+  var reportData;
+  List<int> cids = [];
+}

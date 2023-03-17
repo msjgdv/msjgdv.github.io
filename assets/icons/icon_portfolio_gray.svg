@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45.976" height="41.793" viewBox="0 0 45.976 41.793">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_8635" data-name="사각형 8635" width="45.976" height="41.793" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_1121" data-name="그룹 1121" transform="translate(0 0)">
+    <g id="그룹_1120" data-name="그룹 1120" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <rect id="사각형_8632" data-name="사각형 8632" width="39.542" height="27.164" rx="1" transform="translate(1.15 13.478)" fill="#fff"/>
+      <path id="패스_1937" data-name="패스 1937" d="M39.541,37.875H2.3V13.013H39.541Zm0-27.164H2.3a2.3,2.3,0,0,0-2.3,2.3V37.875a2.3,2.3,0,0,0,2.3,2.3H39.541a2.3,2.3,0,0,0,2.3-2.3V13.013a2.3,2.3,0,0,0-2.3-2.3" transform="translate(0 1.615)" fill="#9f9f9f"/>
+      <path id="패스_1938" data-name="패스 1938" d="M1.1,12.811V25.468l19.659,2.763,19.455-2.763V12.13Z" transform="translate(0.165 1.543)" fill="#9f9f9f"/>
+      <path id="패스_1939" data-name="패스 1939" d="M27.008,17.179H12.422V7.635H27.008Zm0-11.846H12.422a2.3,2.3,0,0,0-2.3,2.3v9.545a2.3,2.3,0,0,0,2.3,2.3H27.008a2.3,2.3,0,0,0,2.3-2.3V7.635a2.3,2.3,0,0,0-2.3-2.3" transform="translate(1.526 0.804)" fill="#9f9f9f"/>
+      <line id="선_458" data-name="선 458" y2="7.019" transform="translate(20.819 26.405)" fill="none" stroke="#9f9f9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="사각형_8633" data-name="사각형 8633" width="19.182" height="25.044" transform="translate(25.643 1.151)" fill="#fff"/>
+      <rect id="사각형_8634" data-name="사각형 8634" width="19.182" height="25.044" transform="translate(25.643 1.151)" fill="none" stroke="#9f9f9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_459" data-name="선 459" x2="9.612" transform="translate(30.428 8.438)" fill="none" stroke="#9f9f9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_460" data-name="선 460" x2="3.967" transform="translate(30.428 13.211)" fill="none" stroke="#9f9f9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

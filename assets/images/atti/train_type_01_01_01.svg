@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="132.333" height="152.75" viewBox="0 0 132.333 152.75">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_911" data-name="사각형 911" width="132.333" height="152.75" transform="translate(2704.543 4180.201)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_54" data-name="그룹 54" transform="translate(-2704.543 -4180.201)">
+    <g id="그룹_914" data-name="그룹 914" clip-path="url(#clip-path)">
+      <path id="패스_2969" data-name="패스 2969" d="M2938.8,4317.243h-191.36c-2.746,0-5.068-1.284-5.431-3l-17.692-83.75h238.032l-18.12,83.761C2943.862,4315.965,2941.543,4317.243,2938.8,4317.243Z" fill="#e58f4e"/>
+      <rect id="사각형_906" data-name="사각형 906" width="247.076" height="18.757" rx="2.385" transform="translate(2719.47 4216.292)" fill="#e2b150"/>
+      <rect id="사각형_907" data-name="사각형 907" width="14.661" height="14.661" rx="6.777" transform="translate(2761.728 4249.176)" fill="#e2b150"/>
+      <rect id="사각형_908" data-name="사각형 908" width="14.661" height="14.661" rx="6.777" transform="translate(2808.232 4249.176)" fill="#e2b150"/>
+      <rect id="사각형_909" data-name="사각형 909" width="14.661" height="14.661" rx="6.777" transform="translate(2854.736 4249.176)" fill="#e2b150"/>
+      <rect id="사각형_910" data-name="사각형 910" width="14.661" height="14.661" rx="6.777" transform="translate(2901.241 4249.176)" fill="#e2b150"/>
+      <circle id="타원_258" data-name="타원 258" cx="25.548" cy="25.548" r="25.548" transform="translate(2769.058 4281.854)" fill="#3d3022"/>
+      <circle id="타원_259" data-name="타원 259" cx="25.548" cy="25.548" r="25.548" transform="translate(2869.397 4281.854)" fill="#3d3022"/>
+    </g>
+  </g>
+</svg>

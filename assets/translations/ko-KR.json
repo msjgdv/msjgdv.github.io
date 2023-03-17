@@ -1,0 +1,42 @@
+{
+  "hello": "안녕하세요",
+  "name": "이름",
+  "clear": "취소",
+  "english": "English",
+  "korean": "한국어",
+  "red": "빨간색",
+  "blue": "파란색",
+  "green": "초록색",
+
+  "sign": "문서결재",
+  "annualPlan": "연간계획",
+  "record": "관찰기록",
+
+  "dayRecord": "하루일과",
+  "dayRecordExecutionAndPlanning" : "하루일과 실행 및 계획",
+
+  "weekRecord": "주간놀이",
+  "weekRecordPlanning" : "주간 놀이 계획안",
+
+  "notices": "가정통신문",
+  "playFlow": "놀이흐름도",
+
+  "portfolio": "포트폴리오",
+  "portfolioList" : "포트폴리오 리스트",
+
+  "nuri": "누리과정분석",
+  "lifeRecord": "생활기록부",
+
+  "attendance" : "출석",
+  "temperature" : "체온",
+  "emotion" : "감정",
+  "meal" : "식사",
+  "nap" : "낮잠",
+  "toilet" : "배변/구토",
+  "dosage" : "투약",
+  "safetyAccident" : "안전사고",
+  "weight" : "신장/체중",
+  "report" : "보고서",
+  "monthReport" : "월별보고서"
+
+}

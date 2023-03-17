@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45.976" height="41.793" viewBox="0 0 45.976 41.793">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_8662" data-name="사각형 8662" width="45.976" height="41.793" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_1149" data-name="그룹 1149" transform="translate(0 0)">
+    <g id="그룹_1148" data-name="그룹 1148" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <rect id="사각형_8659" data-name="사각형 8659" width="39.542" height="27.164" rx="1" transform="translate(1.15 13.478)" fill="#fff"/>
+      <path id="패스_1986" data-name="패스 1986" d="M39.541,37.875H2.3V13.013H39.541Zm0-27.164H2.3a2.3,2.3,0,0,0-2.3,2.3V37.875a2.3,2.3,0,0,0,2.3,2.3H39.541a2.3,2.3,0,0,0,2.3-2.3V13.013a2.3,2.3,0,0,0-2.3-2.3" transform="translate(0 1.615)" fill="#fdb43b"/>
+      <path id="패스_1987" data-name="패스 1987" d="M1.1,12.18V25.2l19.659,2.842L40.211,25.2V11.479Z" transform="translate(0.165 1.731)" fill="#fdb43b"/>
+      <path id="패스_1988" data-name="패스 1988" d="M1.1,12.18V25.2l19.659,2.842L40.211,25.2V11.479Z" transform="translate(0.165 1.731)" fill="none" stroke="#fdb43b" stroke-width="1"/>
+      <path id="패스_1989" data-name="패스 1989" d="M27.008,17.179H12.422V7.635H27.008Zm0-11.846H12.422a2.3,2.3,0,0,0-2.3,2.3v9.545a2.3,2.3,0,0,0,2.3,2.3H27.008a2.3,2.3,0,0,0,2.3-2.3V7.635a2.3,2.3,0,0,0-2.3-2.3" transform="translate(1.526 0.804)" fill="#fdb43b"/>
+      <line id="선_511" data-name="선 511" y2="7.019" transform="translate(20.819 26.405)" fill="none" stroke="#fdb43b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="사각형_8660" data-name="사각형 8660" width="19.182" height="25.044" transform="translate(25.643 1.151)" fill="#fff"/>
+      <rect id="사각형_8661" data-name="사각형 8661" width="19.182" height="25.044" transform="translate(25.643 1.151)" fill="none" stroke="#fdb43b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_512" data-name="선 512" x2="9.612" transform="translate(30.428 8.438)" fill="none" stroke="#fdb43b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_513" data-name="선 513" x2="3.967" transform="translate(30.428 13.211)" fill="none" stroke="#fdb43b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
